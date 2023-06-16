@@ -1,0 +1,587 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Pizza",
+        "description": "A delicious Italian dish made with a thin, round crust topped with tomato sauce, cheese, and various toppings.",
+        "price": 9.99
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "description": "A sandwich consisting of a cooked patty of ground beef, placed inside a sliced bun, and typically garnished with various condiments and toppings.",
+        "price": 6.99
+      },
+      {
+        "id": 3,
+        "name": "Sushi",
+        "description": "A Japanese dish consisting of vinegared rice combined with various ingredients such as raw or cooked seafood, vegetables, and sometimes tropical fruits.",
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Pasta",
+        "description": "A staple Italian food made from unleavened dough of durum wheat flour, typically served with a sauce or in a casserole.",
+        "price": 8.99
+      },
+      {
+        "id": 5,
+        "name": "Steak",
+        "description": "A slice of high-quality meat, typically beef, cooked to the desired level of doneness and often served with vegetables or a sauce.",
+        "price": 19.99
+      },
+      {
+        "id": 6,
+        "name": "Chicken Curry",
+        "description": "A dish originating from the Indian subcontinent, consisting of chicken cooked in a spiced tomato-based sauce, often served with rice or bread.",
+        "price": 13.99
+      },
+      {
+        "id": 7,
+        "name": "Tacos",
+        "description": "A traditional Mexican dish composed of a corn or wheat tortilla folded or rolled around a filling, such as meat, cheese, or vegetables.",
+        "price": 7.99
+      },
+      {
+        "id": 8,
+        "name": "Salad",
+        "description": "A dish consisting of a mixture of vegetables, fruits, and sometimes other ingredients, typically served with a dressing.",
+        "price": 5.99
+      },
+      {
+        "id": 9,
+        "name": "Sushi Rolls",
+        "description": "A type of sushi made by wrapping vinegared rice and various ingredients in a sheet of seaweed, then sliced into bite-sized pieces.",
+        "price": 10.99
+      },
+      {
+        "id": 10,
+        "name": "Fish and Chips",
+        "description": "A popular British dish consisting of battered and deep-fried fish, usually served with chips (fries) and tartar sauce.",
+        "price": 11.99
+      },
+      {
+        "id": 11,
+        "name": "Burrito",
+        "description": "A Mexican dish consisting of a tortilla wrapped or folded around a filling, typically including meat, beans, cheese, and salsa.",
+        "price": 8.99
+      },
+      {
+        "id": 12,
+        "name": "Sashimi",
+        "description": "A Japanese delicacy consisting of thinly sliced raw seafood, often served with soy sauce and wasabi.",
+        "price": 14.99
+      },
+      {
+        "id": 13,
+        "name": "Chicken Wings",
+        "description": "Chicken wings that are typically deep-fried or grilled and coated in various sauces, often served as a snack or appetizer.",
+        "price": 9.99
+      },
+      {
+        "id": 14,
+        "name": "Lasagna",
+        "description": "An Italian dish made with layers of flat pasta, meat, cheese, and tomato sauce, baked to perfection.",
+        "price": 12.99
+      },
+      {
+        "id": 15,
+        "name": "Ramen",
+        "description": "A Japanese noodle soup dish with Chinese origins, typically made with wheat noodles and a flavorful broth, topped with various ingredients.",
+        "price": 10.99
+      },
+      {
+        "id": 16,
+        "name": "Caesar Salad",
+        "description": "A type of salad made with romaine lettuce, croutons, Parmesan cheese, and a creamy Caesar dressing.",
+        "price": 6.99
+      },
+      {
+        "id": 17,
+        "name": "Gyoza",
+        "description": "Japanese dumplings filled with ground meat and vegetables, typically pan-fried and served with a dipping sauce.",
+        "price": 7.99
+      },
+      {
+        "id": 18,
+        "name": "Pancakes",
+        "description": "A breakfast food made from a batter that is cooked on a hot griddle, often served with syrup, butter, and various toppings.",
+        "price": 5.99
+      },
+      {
+        "id": 19,
+        "name": "Pho",
+        "description": "A Vietnamese soup consisting of broth, rice noodles, and meat (usually beef or chicken), often garnished with herbs and lime.",
+        "price": 11.99
+      },
+      {
+        "id": 20,
+        "name": "Nachos",
+        "description": "A popular Mexican dish made with tortilla chips topped with melted cheese and a variety of toppings, often served as an appetizer or snack.",
+        "price": 8.99
+      },
+      {
+        "id": 21,
+        "name": "Hot Dog",
+        "description": "A grilled or steamed sausage served in a sliced bun, often garnished with mustard, ketchup, onions, relish, or other toppings.",
+        "price": 4.99
+      },
+      {
+        "id": 22,
+        "name": "Pad Thai",
+        "description": "A Thai stir-fried noodle dish made with rice noodles, eggs, tofu, shrimp or chicken, bean sprouts, and various seasonings.",
+        "price": 10.99
+      },
+      {
+        "id": 23,
+        "name": "Hamburger",
+        "description": "A sandwich consisting of a cooked patty of ground beef, placed inside a sliced bun, typically garnished with lettuce, tomato, onion, and condiments.",
+        "price": 7.99
+      },
+      {
+        "id": 24,
+        "name": "Tandoori Chicken",
+        "description": "A popular Indian dish made by marinating chicken in a mixture of yogurt and spices, then roasted in a tandoor (clay oven).",
+        "price": 13.99
+      },
+      {
+        "id": 25,
+        "name": "Ice Cream",
+        "description": "A frozen dessert made from dairy products, typically containing sugar, flavors, and various ingredients or toppings.",
+        "price": 4.99
+      },
+      {
+        "id": 26,
+        "name": "Miso Soup",
+        "description": "A traditional Japanese soup made with a savory broth, soybean paste (miso), tofu, seaweed, and other ingredients.",
+        "price": 3.99
+      },
+      {
+        "id": 27,
+        "name": "Chicken Parmesan",
+        "description": "A classic Italian-American dish made with breaded and fried chicken cutlets, topped with tomato sauce and melted cheese.",
+        "price": 14.99
+      },
+      {
+        "id": 28,
+        "name": "Fried Rice",
+        "description": "A stir-fried dish made with cooked rice, usually mixed with vegetables, eggs, and a variety of proteins such as chicken, shrimp, or beef.",
+        "price": 9.99
+      },
+      {
+        "id": 29,
+        "name": "Chicken Noodle Soup",
+        "description": "A comforting soup made with chicken, vegetables, and egg noodles, often seasoned with herbs and spices.",
+        "price": 6.99
+      },
+      {
+        "id": 30,
+        "name": "Garden Salad",
+        "description": "A fresh salad made with a variety of garden vegetables such as lettuce, tomatoes, cucumbers, carrots, and dressing.",
+        "price": 5.99
+      },
+      {
+        "id": 31,
+        "name": "Beef Stir-Fry",
+        "description": "A quick and flavorful dish made by stir-frying thinly sliced beef with vegetables and sauce, often served with rice or noodles.",
+        "price": 12.99
+      },
+      {
+        "id": 32,
+        "name": "Chicken Satay",
+        "description": "A Southeast Asian dish made with skewered and grilled chicken, typically served with a peanut sauce.",
+        "price": 8.99
+      },
+      {
+        "id": 33,
+        "name": "Tomato Soup",
+        "description": "A classic soup made with tomatoes, often pureed and served hot, sometimes accompanied by a grilled cheese sandwich.",
+        "price": 4.99
+      },
+      {
+        "id": 34,
+        "name": "Fish Tacos",
+        "description": "Tacos filled with grilled or fried fish, typically topped with cabbage, salsa, and a creamy sauce.",
+        "price": 10.99
+      },
+      {
+        "id": 35,
+        "name": "Cheeseburger",
+        "description": "A hamburger topped with cheese, typically served with lettuce, tomato, onion, and condiments.",
+        "price": 7.99
+      },
+      {
+        "id": 36,
+        "name": "Fajitas",
+        "description": "A Tex-Mex dish consisting of grilled strips of meat (typically beef or chicken), served with tortillas and various toppings.",
+        "price": 11.99
+      },
+      {
+        "id": 37,
+        "name": "Margarita Pizza",
+        "description": "A classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+        "price": 9.99
+      },
+      {
+        "id": 38,
+        "name": "Beef Burrito",
+        "description": "A burrito filled with seasoned ground beef, rice, beans, cheese, and other toppings, typically wrapped in a flour tortilla.",
+        "price": 8.99
+      },
+      {
+        "id": 39,
+        "name": "Chicken Caesar Wrap",
+        "description": "A wrap made with grilled chicken, romaine lettuce, Parmesan cheese, and Caesar dressing, typically wrapped in a tortilla.",
+        "price": 7.99
+      },
+      {
+        "id": 40,
+        "name": "Chicken Tikka Masala",
+        "description": "A popular Indian dish made with marinated and grilled chicken, served in a creamy tomato-based sauce, often accompanied by rice or naan bread.",
+        "price": 13.99
+      },
+      {
+        "id": 41,
+        "name": "Mushroom Risotto",
+        "description": "A creamy Italian rice dish made with Arborio rice, mushrooms, onions, Parmesan cheese, and broth.",
+        "price": 10.99
+      },
+      {
+        "id": 42,
+        "name": "Cesar Salad",
+        "description": "A classic salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+        "price": 6.99
+      },
+      {
+        "id": 43,
+        "name": "Falafel",
+        "description": "A Middle Eastern dish made with ground chickpeas or fava beans, formed into balls or patties and deep-fried, often served in a pita bread with tahini sauce.",
+        "price": 7.99
+      },
+      {
+        "id": 44,
+        "name": "Pancakes with Maple Syrup",
+        "description": "Fluffy pancakes served with maple syrup and butter, a popular breakfast or brunch option.",
+        "price": 5.99
+      },
+      {
+        "id": 45,
+        "name": "Miso Ramen",
+        "description": "A variation of ramen soup made with miso broth, noodles, and various toppings like sliced pork, green onions, and bamboo shoots.",
+        "price": 11.99
+      },
+      {
+        "id": 46,
+        "name": "Quesadilla",
+        "description": "A Mexican dish consisting of a tortilla filled with cheese and sometimes other ingredients, folded in half and grilled until the cheese is melted.",
+        "price": 8.99
+      },
+      {
+        "id": 47,
+        "name": "Shrimp Tempura",
+        "description": "Japanese deep-fried shrimp, typically served as a tempura dish with a dipping sauce.",
+        "price": 12.99
+      },
+      {
+        "id": 48,
+        "name": "Caprese Salad",
+        "description": "A simple Italian salad made with fresh mozzarella cheese, tomatoes, and basil, drizzled with olive oil and balsamic glaze.",
+        "price": 7.99
+      },
+      {
+        "id": 49,
+        "name": "Chicken Fried Rice",
+        "description": "A fried rice dish made with cooked rice, chicken, vegetables, and soy sauce, often served as a main course or side dish.",
+        "price": 9.99
+      },
+      {
+        "id": 50,
+        "name": "Butter Chicken",
+        "description": "A popular Indian dish made with marinated and grilled chicken, cooked in a rich and creamy tomato-based sauce.",
+        "price": 13.99
+      },
+      {
+        "id": 51,
+        "name": "Spring Rolls",
+        "description": "Asian appetizers made with thinly wrapped pastry filled with vegetables, meat, or seafood, typically deep-fried or served fresh.",
+        "price": 7.99
+      },
+      {
+        "id": 52,
+        "name": "Chicken Teriyaki",
+        "description": "A Japanese dish made with grilled or broiled chicken glazed with a sweet and savory teriyaki sauce.",
+        "price": 10.99
+      },
+      {
+        "id": 53,
+        "name": "Minestrone Soup",
+        "description": "A hearty Italian soup made with vegetables, beans, and pasta, often seasoned with herbs and served with grated Parmesan cheese.",
+        "price": 6.99
+      },
+      {
+        "id": 54,
+        "name": "Carnitas Tacos",
+        "description": "Tacos filled with tender and crispy slow-cooked pork, often topped with salsa, onions, and cilantro.",
+        "price": 8.99
+      },
+      {
+        "id": 55,
+        "name": "Veggie Burger",
+        "description": "A burger patty made from vegetables, grains, and sometimes legumes, typically served on a bun with various toppings.",
+        "price": 9.99
+      },
+      {
+        "id": 56,
+        "name": "Chow Mein",
+        "description": "A Chinese stir-fried noodle dish made with vegetables, meat or seafood, and a flavorful sauce.",
+        "price": 10.99
+      },
+      {
+        "id": 57,
+        "name": "Beef Tacos",
+        "description": "Tacos filled with seasoned ground beef, often topped with cheese, lettuce, salsa, and other toppings.",
+        "price": 7.99
+      },
+      {
+        "id": 58,
+        "name": "Chicken Shawarma",
+        "description": "A Middle Eastern dish made with marinated and grilled or roasted chicken, typically served in a wrap or pita bread with tahini sauce.",
+        "price": 11.99
+      },
+      {
+        "id": 59,
+        "name": "Caprese Pizza",
+        "description": "A pizza topped with fresh mozzarella cheese, sliced tomatoes, and basil, often drizzled with olive oil and balsamic glaze.",
+        "price": 9.99
+      },
+      {
+        "id": 60,
+        "name": "Chicken Quesadilla",
+        "description": "A quesadilla filled with seasoned chicken and cheese, grilled until the cheese is melted and the tortilla is crispy.",
+        "price": 8.99
+      },
+      {
+        "id": 61,
+        "name": "Beef Stir-Fried Noodles",
+        "description": "Stir-fried noodles made with beef, vegetables, and a savory sauce, a popular dish in many Asian cuisines.",
+        "price": 11.99
+      },
+      {
+        "id": 62,
+        "name": "Tomato Basil Soup",
+        "description": "A comforting soup made with tomatoes, basil, and other herbs, often served with a side of bread or grilled cheese sandwich.",
+        "price": 5.99
+      },
+      {
+        "id": 63,
+        "name": "Shrimp Tacos",
+        "description": "Tacos filled with grilled or sautéed shrimp, often topped with cabbage, salsa, and a creamy sauce.",
+        "price": 9.99
+      },
+      {
+        "id": 64,
+        "name": "Veggie Wrap",
+        "description": "A wrap filled with a variety of fresh vegetables, often accompanied by hummus or other spreads.",
+        "price": 6.99
+      },
+      {
+        "id": 65,
+        "name": "Teriyaki Salmon",
+        "description": "Grilled or broiled salmon glazed with a sweet and savory teriyaki sauce.",
+        "price": 13.99
+      },
+      {
+        "id": 66,
+        "name": "Chicken Noodle Stir-Fry",
+        "description": "A stir-fry dish made with chicken, vegetables, and egg noodles, seasoned with soy sauce and other Asian spices.",
+        "price": 10.99
+      },
+      {
+        "id": 67,
+        "name": "Greek Salad",
+        "description": "A refreshing salad made with lettuce, tomatoes, cucumbers, red onions, Kalamata olives, and feta cheese, dressed with olive oil and lemon juice.",
+        "price": 7.99
+      },
+      {
+        "id": 68,
+        "name": "Pad See Ew",
+        "description": "A Thai stir-fried noodle dish made with wide rice noodles, soy sauce, eggs, and a choice of meat or vegetables.",
+        "price": 9.99
+      },
+      {
+        "id": 69,
+        "name": "Vegetable Fried Rice",
+        "description": "Fried rice made with a variety of vegetables, eggs, and soy sauce, a flavorful vegetarian or vegan option.",
+        "price": 8.99
+      },
+      {
+        "id": 70,
+        "name": "Chicken Korma",
+        "description": "A creamy Indian dish made with marinated and grilled chicken, cooked in a rich and fragrant sauce made with yogurt, cream, and spices.",
+        "price": 12.99
+      },
+      {
+        "id": 71,
+        "name": "Bruschetta",
+        "description": "Toasted bread topped with fresh tomatoes, garlic, basil, and olive oil, often served as an appetizer.",
+        "price": 6.99
+      },
+      {
+        "id": 72,
+        "name": "Chicken Enchiladas",
+        "description": "Rolled tortillas filled with seasoned chicken, cheese, and topped with enchilada sauce and melted cheese.",
+        "price": 9.99
+      },
+      {
+        "id": 73,
+        "name": "Mediterranean Salad",
+        "description": "A salad made with fresh Mediterranean ingredients such as lettuce, tomatoes, cucumbers, olives, feta cheese, and a lemon-herb dressing.",
+        "price": 8.99
+      },
+      {
+        "id": 74,
+        "name": "Beef and Broccoli Stir-Fry",
+        "description": "A quick and flavorful stir-fry dish made with sliced beef, broccoli, and a savory sauce, often served with rice or noodles.",
+        "price": 11.99
+      },
+      {
+        "id": 75,
+        "name": "Falafel Wrap",
+        "description": "A wrap filled with falafel balls, lettuce, tomatoes, cucumbers, tahini sauce, and other Mediterranean toppings.",
+        "price": 7.99
+      },
+      {
+        "id": 76,
+        "name": "Blueberry Pancakes",
+        "description": "Fluffy pancakes filled with fresh blueberries, often served with maple syrup and butter.",
+        "price": 5.99
+      },
+      {
+        "id": 77,
+        "name": "Beef Pho",
+        "description": "A Vietnamese soup made with beef broth, rice noodles, and thinly sliced beef, often garnished with herbs and lime.",
+        "price": 10.99
+      },
+      {
+        "id": 78,
+        "name": "Vegetable Stir-Fry",
+        "description": "A stir-fry dish made with a variety of fresh vegetables, often seasoned with soy sauce or other Asian sauces.",
+        "price": 8.99
+      },
+      {
+        "id": 79,
+        "name": "Chicken Pad Thai",
+        "description": "A popular Thai dish made with stir-fried rice noodles, chicken, eggs, tofu, and a tangy sauce, garnished with peanuts and lime.",
+        "price": 11.99
+      },
+      {
+        "id": 80,
+        "name": "Caesar Wrap",
+        "description": "A wrap made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing, typically wrapped in a tortilla.",
+        "price": 6.99
+      },
+      {
+        "id": 81,
+        "name": "Gyoza",
+        "description": "Japanese dumplings filled with ground meat or vegetables, typically pan-fried and served with a dipping sauce.",
+        "price": 7.99
+      },
+      {
+        "id": 82,
+        "name": "Chicken Piccata",
+        "description": "An Italian dish made with breaded and sautéed chicken cutlets, served in a tangy lemon and caper sauce.",
+        "price": 13.99
+      },
+      {
+        "id": 83,
+        "name": "Clam Chowder",
+        "description": "A thick and creamy soup made with clams, potatoes, onions, and other ingredients, often served in a bread bowl.",
+        "price": 6.99
+      },
+      {
+        "id": 84,
+        "name": "Fish and Chips",
+        "description": "A British dish consisting of battered and deep-fried fish served with French fries (chips) and tartar sauce.",
+        "price": 11.99
+      },
+      {
+        "id": 85,
+        "name": "Avocado Toast",
+        "description": "Toasted bread topped with mashed avocado, often garnished with salt, pepper, and other toppings like cherry tomatoes or feta cheese.",
+        "price": 5.99
+      },
+      {
+        "id": 86,
+        "name": "Beef Curry",
+        "description": "A spicy and aromatic dish made with tender beef, cooked in a flavorful curry sauce, often served with rice or naan bread.",
+        "price": 12.99
+      },
+      {
+        "id": 87,
+        "name": "Cobb Salad",
+        "description": "A hearty salad made with lettuce, grilled chicken, bacon, hard-boiled eggs, avocado, tomatoes, and blue cheese, often served with a choice of dressing.",
+        "price": 9.99
+      },
+      {
+        "id": 88,
+        "name": "Sweet and Sour Chicken",
+        "description": "A Chinese dish made with crispy chicken, bell peppers, pineapple, and a tangy sweet and sour sauce.",
+        "price": 10.99
+      },
+      {
+        "id": 89,
+        "name": "Tomato Mozzarella Salad",
+        "description": "A simple salad made with fresh tomatoes, mozzarella cheese, and basil, often drizzled with olive oil and balsamic glaze.",
+        "price": 7.99
+      },
+      {
+        "id": 90,
+        "name": "Shrimp Fried Rice",
+        "description": "Fried rice made with shrimp, vegetables, and soy sauce, a flavorful and protein-packed option.",
+        "price": 10.99
+      },
+      {
+        "id": 91,
+        "name": "Beef Bulgogi",
+        "description": "A Korean dish made with thinly sliced marinated beef, typically grilled or stir-fried and served with rice and various side dishes.",
+        "price": 13.99
+      },
+      {
+        "id": 92,
+        "name": "Greek Gyro",
+        "description": "A Greek sandwich made with thinly sliced rotisserie meat (usually beef, lamb, or chicken), wrapped in pita bread with tzatziki sauce, tomatoes, onions, and lettuce.",
+        "price": 9.99
+      },
+      {
+        "id": 93,
+        "name": "Pesto Pasta",
+        "description": "Pasta tossed in a vibrant green sauce made with basil, garlic, pine nuts, Parmesan cheese, and olive oil.",
+        "price": 8.99
+      },
+      {
+        "id": 94,
+        "name": "Beef Tandoori",
+        "description": "Tandoori-style beef cooked in a clay oven, marinated in a blend of yogurt and spices, resulting in tender and flavorful meat.",
+        "price": 12.99
+      },
+      {
+        "id": 95,
+        "name": "Spinach and Feta Stuffed Chicken",
+        "description": "Chicken breast stuffed with a mixture of spinach and feta cheese, baked or grilled to perfection.",
+        "price": 11.99
+      },
+      {
+        "id": 96,
+        "name": "Caramelized Onion and Goat Cheese Pizza",
+        "description": "A pizza topped with caramelized onions, creamy goat cheese, and often finished with a drizzle of balsamic glaze.",
+        "price": 9.99
+      },
+      {
+        "id": 97,
+        "name": "Chicken Caesar Salad",
+        "description": "A salad made with romaine lettuce, grilled chicken, croutons, Parmesan cheese, and Caesar dressing.",
+        "price": 8.99
+      }
+    ]
+  }
+  
